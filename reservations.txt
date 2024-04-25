@@ -1,0 +1,5 @@
+Adjoa,Konongo,Kumasi,Accra,2024-04-24 21:52:55
+Adjoa,TEMA COMM.9,ACCRA,GHANA,2024-04-24 21:53:04
+Maba,Nungua,Accra,Ghana,2024-04-24 21:58:10
+Maba,Tema,Accra,Ghana,2024-04-24 21:59:45
+Maba,Tema,Accra,Ghana,2024-04-24 22:00:59

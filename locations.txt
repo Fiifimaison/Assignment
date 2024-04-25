@@ -1,0 +1,5 @@
+Adjoa,Konongo,Kumasi,Accra
+Adjoa,TEMA COMM.9,ACCRA,GHANA
+Maba,Nungua,Accra,Ghana
+Maba,Tema,Accra,Ghana
+Maba,Teshie no 3,Accra,Ghana
